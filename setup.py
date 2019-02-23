@@ -4,10 +4,10 @@ with open('README.md', 'r') as fh:
     long_description = fh.read()
 
 setuptools.setup(
-        name='AI Models',
+        name='models_iarunava',
         version='0.01',
         author='Arunava Chakraborty (@iArunava)',
-        author_email='iarunavaofficial@gmail.com',,
+        author_email='iarunavaofficial@gmail.com',
         description='contains implementations of all AI models',
         long_description=long_description,
         long_description_content_type='text/markdown',
